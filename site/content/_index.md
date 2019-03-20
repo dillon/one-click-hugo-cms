@@ -6,11 +6,7 @@ blurb:
   heading: Why Kaldi?
   text: >-
     My writing has appeared in [_The Atlantic_](https://google.com), [The Times
-    Literary Supplement](https://github.com) and The Awl. I’m currently working
-    on a book about Gran Fury, a collective of artists associated with ACT UP
-    (The AIDS Coalition to Unleash Power). I also teach in the Undergraduate
-    Writing Program at Columbia University. If you want to hear my voice, you
-    can listen to my interview with Kai Ryssdal for NPR’s
+    Literary Supplement](https://github.com) and
     [Marketplace](https://gitlab.com/about).
 intro:
   heading: What we offer
