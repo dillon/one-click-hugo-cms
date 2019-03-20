@@ -4,7 +4,7 @@ subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
-  markdown text: >-
+  text: >-
     My writing has appeared in [_The Atlantic_](https://google.com), [The Times
     Literary Supplement](https://github.com) and The Awl. I’m currently working
     on a book about Gran Fury, a collective of artists associated with ACT UP
